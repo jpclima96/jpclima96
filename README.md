@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in Open Source, Fullstack Development, Data Science, Politics, Math, Literature and Music (I'ts a lot of stuff, I know)
 
-- 🌱 I’m currently learning Devops Practices, UX/UI and Software Engineering
+- 🌱 I’m currently learning Devops Practices, Chatbot, UX/UI and Distributed Systems
 
 - 📄 Working with NodeJs, React, Python, Typescript, AWS, Linux, PostgreSQL at [Nossas](https://www.nossas.org/)
 
