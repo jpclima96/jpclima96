@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning Devops Practices, UX/UI and Distributed Systems
 
-- 📄 Working with NodeJs, React, Python, Typescript, AWS, Linux, PostgreSQL at [Nossas](https://www.nossas.org/)
+- 📄 Working with Python, Django, NodeJs, React, Typescript, AWS, Linux, PostgreSQL at [Nossas](https://www.nossas.org/)
 
 
 - 💞️ I’m looking to collaborate on Open Source documentation translation English to Portuguese(BR) and technology for social impact
